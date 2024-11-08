@@ -18,11 +18,11 @@ To use this tool, simply open the index.html file in your web browser and follow
 
 Here's a screenshot of the tool in action:
 
-![ZOD Schema Generator Screenshot](test-data-generator.png)
+![Test User Data Generator Screenshot](test-data-generator.png)
 
 ## Try it out!
 
-You can try out the ZOD Schema Generator by visiting the [live demo page](https://valiantsin2021.github.io/test-user-data-generator/).
+You can try out the User Data Schema Generator by visiting the [live demo page](https://valiantsin2021.github.io/test-user-data-generator/).
 
 ## Contributing
 
